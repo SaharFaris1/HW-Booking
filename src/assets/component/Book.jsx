@@ -12,7 +12,7 @@ import { FaArrowRightArrowLeft } from "react-icons/fa6";
 function Book() {
   return (
     <div className="flex p-5 max-w-2xl mx-auto">
-        
+        <div></div>
          <div className="flex gap-4 h-12 p-5 items-center">
          <IoAirplane className=" md:hidden lg:hidden w-5 h-6" />
 
